@@ -1,5 +1,6 @@
 # Intermidiate Tasks
 
+## Task 1
 i have 2 sms api twillo & nexmo.
 but only one is active at a time depend on env
 
@@ -8,7 +9,7 @@ send an sms to user
 -   after an user create
 -   if user update is password send the new password to sms
 
-# Task 2
+## Task 2
 
 create category & subcategory system wherecategory has many sub categories.
 also sub category can have many subcategories and so on recrusively.
@@ -31,6 +32,6 @@ Example:
 Fashion => Male Fashion => watch => smart watch
 Electronics => Laptop => Component => Ram
 
-# Task 3
+## Task 3
 
 Write Tests for Task 3
