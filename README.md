@@ -13,3 +13,5 @@ Fashion => Male Fashion => watch => smart watch
 Electronics => Laptop => Component => Ram
 
 Create Database , Model & relations For the scenario.
+
+[N:B: Time is 10 minutes for that]
