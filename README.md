@@ -2,6 +2,8 @@
 
 ## Task 3
 
+[N:B: Time is 20 minutes for that]
+
 create category & subcategory system wherecategory has many sub categories.
 also sub category can have many subcategories and so on recrusively.
 
@@ -24,3 +26,5 @@ create api for that
 -   /subcategories return all main categories with all nested childrens
 
 ## Write Tests for Task 4
+
+[N:B: Time is 10 minutes for that]
