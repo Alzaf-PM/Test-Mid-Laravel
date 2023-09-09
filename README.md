@@ -14,3 +14,5 @@ send an sms to user
 
 -   if user update is password send the new password to sms
     -   There is 2 place where user can be updated on Admin & on Moderator
+
+[N:B: Time is 10 minutes for that]
